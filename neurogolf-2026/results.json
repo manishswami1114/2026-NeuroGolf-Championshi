@@ -1,0 +1,23 @@
+[
+  {
+    "task": 276,
+    "solved": true,
+    "score": 13.252002412850288,
+    "tier": "handcrafted",
+    "details": "MACs=90000, mem=36400, params=100, score=13.252"
+  },
+  {
+    "task": 309,
+    "solved": true,
+    "score": 13.252002412850288,
+    "tier": "handcrafted",
+    "details": "MACs=90000, mem=36400, params=100, score=13.252"
+  },
+  {
+    "task": 337,
+    "solved": true,
+    "score": 13.252002412850288,
+    "tier": "handcrafted",
+    "details": "MACs=90000, mem=36400, params=100, score=13.252"
+  }
+]

@@ -1,0 +1,2402 @@
+[
+  {
+    "task": 1,
+    "tier": null,
+    "solved": false,
+    "score": 0.0
+  },
+  {
+    "task": 2,
+    "tier": null,
+    "solved": false,
+    "score": 0.0
+  },
+  {
+    "task": 3,
+    "tier": null,
+    "solved": false,
+    "score": 0.0
+  },
+  {
+    "task": 4,
+    "tier": null,
+    "solved": false,
+    "score": 0.0
+  },
+  {
+    "task": 5,
+    "tier": null,
+    "solved": false,
+    "score": 0.0
+  },
+  {
+    "task": 6,
+    "tier": null,
+    "solved": false,
+    "score": 0.0
+  },
+  {
+    "task": 7,
+    "tier": null,
+    "solved": false,
+    "score": 0.0
+  },
+  {
+    "task": 8,
+    "tier": null,
+    "solved": false,
+    "score": 0.0
+  },
+  {
+    "task": 9,
+    "tier": null,
+    "solved": false,
+    "score": 0.0
+  },
+  {
+    "task": 10,
+    "tier": null,
+    "solved": false,
+    "score": 0.0
+  },
+  {
+    "task": 11,
+    "tier": null,
+    "solved": false,
+    "score": 0.0
+  },
+  {
+    "task": 12,
+    "tier": null,
+    "solved": false,
+    "score": 0.0
+  },
+  {
+    "task": 13,
+    "tier": null,
+    "solved": false,
+    "score": 0.0
+  },
+  {
+    "task": 14,
+    "tier": null,
+    "solved": false,
+    "score": 0.0
+  },
+  {
+    "task": 15,
+    "tier": "cnn_conv3",
+    "solved": true,
+    "score": 1.0
+  },
+  {
+    "task": 16,
+    "tier": "color_remap",
+    "solved": true,
+    "score": 2.0
+  },
+  {
+    "task": 17,
+    "tier": null,
+    "solved": false,
+    "score": 2.0
+  },
+  {
+    "task": 18,
+    "tier": null,
+    "solved": false,
+    "score": 2.0
+  },
+  {
+    "task": 19,
+    "tier": null,
+    "solved": false,
+    "score": 2.0
+  },
+  {
+    "task": 20,
+    "tier": null,
+    "solved": false,
+    "score": 2.0
+  },
+  {
+    "task": 21,
+    "tier": null,
+    "solved": false,
+    "score": 2.0
+  },
+  {
+    "task": 22,
+    "tier": null,
+    "solved": false,
+    "score": 2.0
+  },
+  {
+    "task": 23,
+    "tier": null,
+    "solved": false,
+    "score": 2.0
+  },
+  {
+    "task": 24,
+    "tier": null,
+    "solved": false,
+    "score": 2.0
+  },
+  {
+    "task": 25,
+    "tier": null,
+    "solved": false,
+    "score": 2.0
+  },
+  {
+    "task": 26,
+    "tier": null,
+    "solved": false,
+    "score": 2.0
+  },
+  {
+    "task": 27,
+    "tier": null,
+    "solved": false,
+    "score": 2.0
+  },
+  {
+    "task": 28,
+    "tier": null,
+    "solved": false,
+    "score": 2.0
+  },
+  {
+    "task": 29,
+    "tier": null,
+    "solved": false,
+    "score": 2.0
+  },
+  {
+    "task": 30,
+    "tier": null,
+    "solved": false,
+    "score": 2.0
+  },
+  {
+    "task": 31,
+    "tier": null,
+    "solved": false,
+    "score": 2.0
+  },
+  {
+    "task": 32,
+    "tier": null,
+    "solved": false,
+    "score": 2.0
+  },
+  {
+    "task": 33,
+    "tier": null,
+    "solved": false,
+    "score": 2.0
+  },
+  {
+    "task": 34,
+    "tier": null,
+    "solved": false,
+    "score": 2.0
+  },
+  {
+    "task": 35,
+    "tier": null,
+    "solved": false,
+    "score": 2.0
+  },
+  {
+    "task": 36,
+    "tier": null,
+    "solved": false,
+    "score": 2.0
+  },
+  {
+    "task": 37,
+    "tier": null,
+    "solved": false,
+    "score": 2.0
+  },
+  {
+    "task": 38,
+    "tier": null,
+    "solved": false,
+    "score": 2.0
+  },
+  {
+    "task": 39,
+    "tier": null,
+    "solved": false,
+    "score": 2.0
+  },
+  {
+    "task": 40,
+    "tier": null,
+    "solved": false,
+    "score": 2.0
+  },
+  {
+    "task": 41,
+    "tier": null,
+    "solved": false,
+    "score": 2.0
+  },
+  {
+    "task": 42,
+    "tier": null,
+    "solved": false,
+    "score": 2.0
+  },
+  {
+    "task": 43,
+    "tier": null,
+    "solved": false,
+    "score": 2.0
+  },
+  {
+    "task": 44,
+    "tier": null,
+    "solved": false,
+    "score": 2.0
+  },
+  {
+    "task": 45,
+    "tier": null,
+    "solved": false,
+    "score": 2.0
+  },
+  {
+    "task": 46,
+    "tier": null,
+    "solved": false,
+    "score": 2.0
+  },
+  {
+    "task": 47,
+    "tier": null,
+    "solved": false,
+    "score": 2.0
+  },
+  {
+    "task": 48,
+    "tier": null,
+    "solved": false,
+    "score": 2.0
+  },
+  {
+    "task": 49,
+    "tier": null,
+    "solved": false,
+    "score": 2.0
+  },
+  {
+    "task": 50,
+    "tier": null,
+    "solved": false,
+    "score": 2.0
+  },
+  {
+    "task": 51,
+    "tier": null,
+    "solved": false,
+    "score": 2.0
+  },
+  {
+    "task": 52,
+    "tier": null,
+    "solved": false,
+    "score": 2.0
+  },
+  {
+    "task": 53,
+    "tier": "roll(1, 0)",
+    "solved": true,
+    "score": 3.0
+  },
+  {
+    "task": 54,
+    "tier": null,
+    "solved": false,
+    "score": 3.0
+  },
+  {
+    "task": 55,
+    "tier": null,
+    "solved": false,
+    "score": 3.0
+  },
+  {
+    "task": 56,
+    "tier": null,
+    "solved": false,
+    "score": 3.0
+  },
+  {
+    "task": 57,
+    "tier": null,
+    "solved": false,
+    "score": 3.0
+  },
+  {
+    "task": 58,
+    "tier": null,
+    "solved": false,
+    "score": 3.0
+  },
+  {
+    "task": 59,
+    "tier": null,
+    "solved": false,
+    "score": 3.0
+  },
+  {
+    "task": 60,
+    "tier": "linear",
+    "solved": true,
+    "score": 4.0
+  },
+  {
+    "task": 61,
+    "tier": null,
+    "solved": false,
+    "score": 4.0
+  },
+  {
+    "task": 62,
+    "tier": null,
+    "solved": false,
+    "score": 4.0
+  },
+  {
+    "task": 63,
+    "tier": null,
+    "solved": false,
+    "score": 4.0
+  },
+  {
+    "task": 64,
+    "tier": null,
+    "solved": false,
+    "score": 4.0
+  },
+  {
+    "task": 65,
+    "tier": null,
+    "solved": false,
+    "score": 4.0
+  },
+  {
+    "task": 66,
+    "tier": null,
+    "solved": false,
+    "score": 4.0
+  },
+  {
+    "task": 67,
+    "tier": null,
+    "solved": false,
+    "score": 4.0
+  },
+  {
+    "task": 68,
+    "tier": null,
+    "solved": false,
+    "score": 4.0
+  },
+  {
+    "task": 69,
+    "tier": null,
+    "solved": false,
+    "score": 4.0
+  },
+  {
+    "task": 70,
+    "tier": null,
+    "solved": false,
+    "score": 4.0
+  },
+  {
+    "task": 71,
+    "tier": null,
+    "solved": false,
+    "score": 4.0
+  },
+  {
+    "task": 72,
+    "tier": null,
+    "solved": false,
+    "score": 4.0
+  },
+  {
+    "task": 73,
+    "tier": "cnn_conv5",
+    "solved": true,
+    "score": 5.0
+  },
+  {
+    "task": 74,
+    "tier": null,
+    "solved": false,
+    "score": 5.0
+  },
+  {
+    "task": 75,
+    "tier": null,
+    "solved": false,
+    "score": 5.0
+  },
+  {
+    "task": 76,
+    "tier": null,
+    "solved": false,
+    "score": 5.0
+  },
+  {
+    "task": 77,
+    "tier": null,
+    "solved": false,
+    "score": 5.0
+  },
+  {
+    "task": 78,
+    "tier": null,
+    "solved": false,
+    "score": 5.0
+  },
+  {
+    "task": 79,
+    "tier": null,
+    "solved": false,
+    "score": 5.0
+  },
+  {
+    "task": 80,
+    "tier": null,
+    "solved": false,
+    "score": 5.0
+  },
+  {
+    "task": 81,
+    "tier": null,
+    "solved": false,
+    "score": 5.0
+  },
+  {
+    "task": 82,
+    "tier": null,
+    "solved": false,
+    "score": 5.0
+  },
+  {
+    "task": 83,
+    "tier": null,
+    "solved": false,
+    "score": 5.0
+  },
+  {
+    "task": 84,
+    "tier": null,
+    "solved": false,
+    "score": 5.0
+  },
+  {
+    "task": 85,
+    "tier": null,
+    "solved": false,
+    "score": 5.0
+  },
+  {
+    "task": 86,
+    "tier": null,
+    "solved": false,
+    "score": 5.0
+  },
+  {
+    "task": 87,
+    "tier": "linear",
+    "solved": true,
+    "score": 6.0
+  },
+  {
+    "task": 88,
+    "tier": null,
+    "solved": false,
+    "score": 6.0
+  },
+  {
+    "task": 89,
+    "tier": null,
+    "solved": false,
+    "score": 6.0
+  },
+  {
+    "task": 90,
+    "tier": null,
+    "solved": false,
+    "score": 6.0
+  },
+  {
+    "task": 91,
+    "tier": null,
+    "solved": false,
+    "score": 6.0
+  },
+  {
+    "task": 92,
+    "tier": null,
+    "solved": false,
+    "score": 6.0
+  },
+  {
+    "task": 93,
+    "tier": null,
+    "solved": false,
+    "score": 6.0
+  },
+  {
+    "task": 94,
+    "tier": null,
+    "solved": false,
+    "score": 6.0
+  },
+  {
+    "task": 95,
+    "tier": "cnn_conv3",
+    "solved": true,
+    "score": 7.0
+  },
+  {
+    "task": 96,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 97,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 98,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 99,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 100,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 101,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 102,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 103,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 104,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 105,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 106,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 107,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 108,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 109,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 110,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 111,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 112,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 113,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 114,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 115,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 116,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 117,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 118,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 119,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 120,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 121,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 122,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 123,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 124,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 125,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 126,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 127,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 128,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 129,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 130,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 131,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 132,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 133,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 134,
+    "tier": null,
+    "solved": false,
+    "score": 7.0
+  },
+  {
+    "task": 135,
+    "tier": "crop(0, 6)",
+    "solved": true,
+    "score": 8.0
+  },
+  {
+    "task": 136,
+    "tier": null,
+    "solved": false,
+    "score": 8.0
+  },
+  {
+    "task": 137,
+    "tier": null,
+    "solved": false,
+    "score": 8.0
+  },
+  {
+    "task": 138,
+    "tier": null,
+    "solved": false,
+    "score": 8.0
+  },
+  {
+    "task": 139,
+    "tier": null,
+    "solved": false,
+    "score": 8.0
+  },
+  {
+    "task": 140,
+    "tier": null,
+    "solved": false,
+    "score": 8.0
+  },
+  {
+    "task": 141,
+    "tier": null,
+    "solved": false,
+    "score": 8.0
+  },
+  {
+    "task": 142,
+    "tier": null,
+    "solved": false,
+    "score": 8.0
+  },
+  {
+    "task": 143,
+    "tier": null,
+    "solved": false,
+    "score": 8.0
+  },
+  {
+    "task": 144,
+    "tier": null,
+    "solved": false,
+    "score": 8.0
+  },
+  {
+    "task": 145,
+    "tier": null,
+    "solved": false,
+    "score": 8.0
+  },
+  {
+    "task": 146,
+    "tier": null,
+    "solved": false,
+    "score": 8.0
+  },
+  {
+    "task": 147,
+    "tier": null,
+    "solved": false,
+    "score": 8.0
+  },
+  {
+    "task": 148,
+    "tier": null,
+    "solved": false,
+    "score": 8.0
+  },
+  {
+    "task": 149,
+    "tier": null,
+    "solved": false,
+    "score": 8.0
+  },
+  {
+    "task": 150,
+    "tier": null,
+    "solved": false,
+    "score": 8.0
+  },
+  {
+    "task": 151,
+    "tier": null,
+    "solved": false,
+    "score": 8.0
+  },
+  {
+    "task": 152,
+    "tier": "linear",
+    "solved": true,
+    "score": 9.0
+  },
+  {
+    "task": 153,
+    "tier": null,
+    "solved": false,
+    "score": 9.0
+  },
+  {
+    "task": 154,
+    "tier": null,
+    "solved": false,
+    "score": 9.0
+  },
+  {
+    "task": 155,
+    "tier": null,
+    "solved": false,
+    "score": 9.0
+  },
+  {
+    "task": 156,
+    "tier": null,
+    "solved": false,
+    "score": 9.0
+  },
+  {
+    "task": 157,
+    "tier": null,
+    "solved": false,
+    "score": 9.0
+  },
+  {
+    "task": 158,
+    "tier": null,
+    "solved": false,
+    "score": 9.0
+  },
+  {
+    "task": 159,
+    "tier": null,
+    "solved": false,
+    "score": 9.0
+  },
+  {
+    "task": 160,
+    "tier": null,
+    "solved": false,
+    "score": 9.0
+  },
+  {
+    "task": 161,
+    "tier": null,
+    "solved": false,
+    "score": 9.0
+  },
+  {
+    "task": 162,
+    "tier": null,
+    "solved": false,
+    "score": 9.0
+  },
+  {
+    "task": 163,
+    "tier": null,
+    "solved": false,
+    "score": 9.0
+  },
+  {
+    "task": 164,
+    "tier": null,
+    "solved": false,
+    "score": 9.0
+  },
+  {
+    "task": 165,
+    "tier": null,
+    "solved": false,
+    "score": 9.0
+  },
+  {
+    "task": 166,
+    "tier": null,
+    "solved": false,
+    "score": 9.0
+  },
+  {
+    "task": 167,
+    "tier": null,
+    "solved": false,
+    "score": 9.0
+  },
+  {
+    "task": 168,
+    "tier": null,
+    "solved": false,
+    "score": 9.0
+  },
+  {
+    "task": 169,
+    "tier": null,
+    "solved": false,
+    "score": 9.0
+  },
+  {
+    "task": 170,
+    "tier": null,
+    "solved": false,
+    "score": 9.0
+  },
+  {
+    "task": 171,
+    "tier": null,
+    "solved": false,
+    "score": 9.0
+  },
+  {
+    "task": 172,
+    "tier": "linear",
+    "solved": true,
+    "score": 10.0
+  },
+  {
+    "task": 173,
+    "tier": null,
+    "solved": false,
+    "score": 10.0
+  },
+  {
+    "task": 174,
+    "tier": null,
+    "solved": false,
+    "score": 10.0
+  },
+  {
+    "task": 175,
+    "tier": null,
+    "solved": false,
+    "score": 10.0
+  },
+  {
+    "task": 176,
+    "tier": null,
+    "solved": false,
+    "score": 10.0
+  },
+  {
+    "task": 177,
+    "tier": null,
+    "solved": false,
+    "score": 10.0
+  },
+  {
+    "task": 178,
+    "tier": null,
+    "solved": false,
+    "score": 10.0
+  },
+  {
+    "task": 179,
+    "tier": "transpose",
+    "solved": true,
+    "score": 11.0
+  },
+  {
+    "task": 180,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 181,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 182,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 183,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 184,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 185,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 186,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 187,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 188,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 189,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 190,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 191,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 192,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 193,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 194,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 195,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 196,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 197,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 198,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 199,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 200,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 201,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 202,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 203,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 204,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 205,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 206,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 207,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 208,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 209,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 210,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 211,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 212,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 213,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 214,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 215,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 216,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 217,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 218,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 219,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 220,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 221,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 222,
+    "tier": null,
+    "solved": false,
+    "score": 11.0
+  },
+  {
+    "task": 223,
+    "tier": "scale3x",
+    "solved": true,
+    "score": 12.0
+  },
+  {
+    "task": 224,
+    "tier": null,
+    "solved": false,
+    "score": 12.0
+  },
+  {
+    "task": 225,
+    "tier": null,
+    "solved": false,
+    "score": 12.0
+  },
+  {
+    "task": 226,
+    "tier": null,
+    "solved": false,
+    "score": 12.0
+  },
+  {
+    "task": 227,
+    "tier": null,
+    "solved": false,
+    "score": 12.0
+  },
+  {
+    "task": 228,
+    "tier": null,
+    "solved": false,
+    "score": 12.0
+  },
+  {
+    "task": 229,
+    "tier": null,
+    "solved": false,
+    "score": 12.0
+  },
+  {
+    "task": 230,
+    "tier": null,
+    "solved": false,
+    "score": 12.0
+  },
+  {
+    "task": 231,
+    "tier": null,
+    "solved": false,
+    "score": 12.0
+  },
+  {
+    "task": 232,
+    "tier": null,
+    "solved": false,
+    "score": 12.0
+  },
+  {
+    "task": 233,
+    "tier": null,
+    "solved": false,
+    "score": 12.0
+  },
+  {
+    "task": 234,
+    "tier": null,
+    "solved": false,
+    "score": 12.0
+  },
+  {
+    "task": 235,
+    "tier": null,
+    "solved": false,
+    "score": 12.0
+  },
+  {
+    "task": 236,
+    "tier": null,
+    "solved": false,
+    "score": 12.0
+  },
+  {
+    "task": 237,
+    "tier": null,
+    "solved": false,
+    "score": 12.0
+  },
+  {
+    "task": 238,
+    "tier": null,
+    "solved": false,
+    "score": 12.0
+  },
+  {
+    "task": 239,
+    "tier": null,
+    "solved": false,
+    "score": 12.0
+  },
+  {
+    "task": 240,
+    "tier": null,
+    "solved": false,
+    "score": 12.0
+  },
+  {
+    "task": 241,
+    "tier": "transpose",
+    "solved": true,
+    "score": 13.0
+  },
+  {
+    "task": 242,
+    "tier": null,
+    "solved": false,
+    "score": 13.0
+  },
+  {
+    "task": 243,
+    "tier": null,
+    "solved": false,
+    "score": 13.0
+  },
+  {
+    "task": 244,
+    "tier": null,
+    "solved": false,
+    "score": 13.0
+  },
+  {
+    "task": 245,
+    "tier": null,
+    "solved": false,
+    "score": 13.0
+  },
+  {
+    "task": 246,
+    "tier": null,
+    "solved": false,
+    "score": 13.0
+  },
+  {
+    "task": 247,
+    "tier": null,
+    "solved": false,
+    "score": 13.0
+  },
+  {
+    "task": 248,
+    "tier": null,
+    "solved": false,
+    "score": 13.0
+  },
+  {
+    "task": 249,
+    "tier": null,
+    "solved": false,
+    "score": 13.0
+  },
+  {
+    "task": 250,
+    "tier": null,
+    "solved": false,
+    "score": 13.0
+  },
+  {
+    "task": 251,
+    "tier": null,
+    "solved": false,
+    "score": 13.0
+  },
+  {
+    "task": 252,
+    "tier": null,
+    "solved": false,
+    "score": 13.0
+  },
+  {
+    "task": 253,
+    "tier": null,
+    "solved": false,
+    "score": 13.0
+  },
+  {
+    "task": 254,
+    "tier": null,
+    "solved": false,
+    "score": 13.0
+  },
+  {
+    "task": 255,
+    "tier": null,
+    "solved": false,
+    "score": 13.0
+  },
+  {
+    "task": 256,
+    "tier": null,
+    "solved": false,
+    "score": 13.0
+  },
+  {
+    "task": 257,
+    "tier": null,
+    "solved": false,
+    "score": 13.0
+  },
+  {
+    "task": 258,
+    "tier": null,
+    "solved": false,
+    "score": 13.0
+  },
+  {
+    "task": 259,
+    "tier": null,
+    "solved": false,
+    "score": 13.0
+  },
+  {
+    "task": 260,
+    "tier": null,
+    "solved": false,
+    "score": 13.0
+  },
+  {
+    "task": 261,
+    "tier": null,
+    "solved": false,
+    "score": 13.0
+  },
+  {
+    "task": 262,
+    "tier": "linear",
+    "solved": true,
+    "score": 14.0
+  },
+  {
+    "task": 263,
+    "tier": null,
+    "solved": false,
+    "score": 14.0
+  },
+  {
+    "task": 264,
+    "tier": null,
+    "solved": false,
+    "score": 14.0
+  },
+  {
+    "task": 265,
+    "tier": null,
+    "solved": false,
+    "score": 14.0
+  },
+  {
+    "task": 266,
+    "tier": null,
+    "solved": false,
+    "score": 14.0
+  },
+  {
+    "task": 267,
+    "tier": null,
+    "solved": false,
+    "score": 14.0
+  },
+  {
+    "task": 268,
+    "tier": null,
+    "solved": false,
+    "score": 14.0
+  },
+  {
+    "task": 269,
+    "tier": null,
+    "solved": false,
+    "score": 14.0
+  },
+  {
+    "task": 270,
+    "tier": null,
+    "solved": false,
+    "score": 14.0
+  },
+  {
+    "task": 271,
+    "tier": null,
+    "solved": false,
+    "score": 14.0
+  },
+  {
+    "task": 272,
+    "tier": null,
+    "solved": false,
+    "score": 14.0
+  },
+  {
+    "task": 273,
+    "tier": null,
+    "solved": false,
+    "score": 14.0
+  },
+  {
+    "task": 274,
+    "tier": null,
+    "solved": false,
+    "score": 14.0
+  },
+  {
+    "task": 275,
+    "tier": null,
+    "solved": false,
+    "score": 14.0
+  },
+  {
+    "task": 276,
+    "tier": null,
+    "solved": false,
+    "score": 14.0
+  },
+  {
+    "task": 277,
+    "tier": null,
+    "solved": false,
+    "score": 14.0
+  },
+  {
+    "task": 278,
+    "tier": null,
+    "solved": false,
+    "score": 14.0
+  },
+  {
+    "task": 279,
+    "tier": null,
+    "solved": false,
+    "score": 14.0
+  },
+  {
+    "task": 280,
+    "tier": null,
+    "solved": false,
+    "score": 14.0
+  },
+  {
+    "task": 281,
+    "tier": null,
+    "solved": false,
+    "score": 14.0
+  },
+  {
+    "task": 282,
+    "tier": "cnn_conv5",
+    "solved": true,
+    "score": 15.0
+  },
+  {
+    "task": 283,
+    "tier": null,
+    "solved": false,
+    "score": 15.0
+  },
+  {
+    "task": 284,
+    "tier": null,
+    "solved": false,
+    "score": 15.0
+  },
+  {
+    "task": 285,
+    "tier": null,
+    "solved": false,
+    "score": 15.0
+  },
+  {
+    "task": 286,
+    "tier": null,
+    "solved": false,
+    "score": 15.0
+  },
+  {
+    "task": 287,
+    "tier": null,
+    "solved": false,
+    "score": 15.0
+  },
+  {
+    "task": 288,
+    "tier": null,
+    "solved": false,
+    "score": 15.0
+  },
+  {
+    "task": 289,
+    "tier": null,
+    "solved": false,
+    "score": 15.0
+  },
+  {
+    "task": 290,
+    "tier": null,
+    "solved": false,
+    "score": 15.0
+  },
+  {
+    "task": 291,
+    "tier": null,
+    "solved": false,
+    "score": 15.0
+  },
+  {
+    "task": 292,
+    "tier": null,
+    "solved": false,
+    "score": 15.0
+  },
+  {
+    "task": 293,
+    "tier": null,
+    "solved": false,
+    "score": 15.0
+  },
+  {
+    "task": 294,
+    "tier": null,
+    "solved": false,
+    "score": 15.0
+  },
+  {
+    "task": 295,
+    "tier": null,
+    "solved": false,
+    "score": 15.0
+  },
+  {
+    "task": 296,
+    "tier": null,
+    "solved": false,
+    "score": 15.0
+  },
+  {
+    "task": 297,
+    "tier": null,
+    "solved": false,
+    "score": 15.0
+  },
+  {
+    "task": 298,
+    "tier": null,
+    "solved": false,
+    "score": 15.0
+  },
+  {
+    "task": 299,
+    "tier": null,
+    "solved": false,
+    "score": 15.0
+  },
+  {
+    "task": 300,
+    "tier": null,
+    "solved": false,
+    "score": 15.0
+  },
+  {
+    "task": 301,
+    "tier": null,
+    "solved": false,
+    "score": 15.0
+  },
+  {
+    "task": 302,
+    "tier": null,
+    "solved": false,
+    "score": 15.0
+  },
+  {
+    "task": 303,
+    "tier": null,
+    "solved": false,
+    "score": 15.0
+  },
+  {
+    "task": 304,
+    "tier": null,
+    "solved": false,
+    "score": 15.0
+  },
+  {
+    "task": 305,
+    "tier": null,
+    "solved": false,
+    "score": 15.0
+  },
+  {
+    "task": 306,
+    "tier": null,
+    "solved": false,
+    "score": 15.0
+  },
+  {
+    "task": 307,
+    "tier": "scale2x",
+    "solved": true,
+    "score": 16.0
+  },
+  {
+    "task": 308,
+    "tier": null,
+    "solved": false,
+    "score": 16.0
+  },
+  {
+    "task": 309,
+    "tier": null,
+    "solved": false,
+    "score": 16.0
+  },
+  {
+    "task": 310,
+    "tier": null,
+    "solved": false,
+    "score": 16.0
+  },
+  {
+    "task": 311,
+    "tier": null,
+    "solved": false,
+    "score": 16.0
+  },
+  {
+    "task": 312,
+    "tier": null,
+    "solved": false,
+    "score": 16.0
+  },
+  {
+    "task": 313,
+    "tier": null,
+    "solved": false,
+    "score": 16.0
+  },
+  {
+    "task": 314,
+    "tier": null,
+    "solved": false,
+    "score": 16.0
+  },
+  {
+    "task": 315,
+    "tier": null,
+    "solved": false,
+    "score": 16.0
+  },
+  {
+    "task": 316,
+    "tier": null,
+    "solved": false,
+    "score": 16.0
+  },
+  {
+    "task": 317,
+    "tier": "cnn_bnk8k3",
+    "solved": true,
+    "score": 17.0
+  },
+  {
+    "task": 318,
+    "tier": null,
+    "solved": false,
+    "score": 17.0
+  },
+  {
+    "task": 319,
+    "tier": null,
+    "solved": false,
+    "score": 17.0
+  },
+  {
+    "task": 320,
+    "tier": null,
+    "solved": false,
+    "score": 17.0
+  },
+  {
+    "task": 321,
+    "tier": null,
+    "solved": false,
+    "score": 17.0
+  },
+  {
+    "task": 322,
+    "tier": null,
+    "solved": false,
+    "score": 17.0
+  },
+  {
+    "task": 323,
+    "tier": null,
+    "solved": false,
+    "score": 17.0
+  },
+  {
+    "task": 324,
+    "tier": null,
+    "solved": false,
+    "score": 17.0
+  },
+  {
+    "task": 325,
+    "tier": null,
+    "solved": false,
+    "score": 17.0
+  },
+  {
+    "task": 326,
+    "tier": "crop(0, 0)",
+    "solved": true,
+    "score": 18.0
+  },
+  {
+    "task": 327,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 328,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 329,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 330,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 331,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 332,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 333,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 334,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 335,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 336,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 337,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 338,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 339,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 340,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 341,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 342,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 343,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 344,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 345,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 346,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 347,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 348,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 349,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 350,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 351,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 352,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 353,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 354,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 355,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 356,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 357,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 358,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 359,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 360,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 361,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 362,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 363,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 364,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 365,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 366,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 367,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 368,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 369,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 370,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 371,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 372,
+    "tier": null,
+    "solved": false,
+    "score": 18.0
+  },
+  {
+    "task": 373,
+    "tier": "linear",
+    "solved": true,
+    "score": 19.0
+  },
+  {
+    "task": 374,
+    "tier": null,
+    "solved": false,
+    "score": 19.0
+  },
+  {
+    "task": 375,
+    "tier": null,
+    "solved": false,
+    "score": 19.0
+  },
+  {
+    "task": 376,
+    "tier": null,
+    "solved": false,
+    "score": 19.0
+  },
+  {
+    "task": 377,
+    "tier": null,
+    "solved": false,
+    "score": 19.0
+  },
+  {
+    "task": 378,
+    "tier": null,
+    "solved": false,
+    "score": 19.0
+  },
+  {
+    "task": 379,
+    "tier": null,
+    "solved": false,
+    "score": 19.0
+  },
+  {
+    "task": 380,
+    "tier": null,
+    "solved": false,
+    "score": 19.0
+  },
+  {
+    "task": 381,
+    "tier": null,
+    "solved": false,
+    "score": 19.0
+  },
+  {
+    "task": 382,
+    "tier": null,
+    "solved": false,
+    "score": 19.0
+  },
+  {
+    "task": 383,
+    "tier": null,
+    "solved": false,
+    "score": 19.0
+  },
+  {
+    "task": 384,
+    "tier": null,
+    "solved": false,
+    "score": 19.0
+  },
+  {
+    "task": 385,
+    "tier": null,
+    "solved": false,
+    "score": 19.0
+  },
+  {
+    "task": 386,
+    "tier": null,
+    "solved": false,
+    "score": 19.0
+  },
+  {
+    "task": 387,
+    "tier": null,
+    "solved": false,
+    "score": 19.0
+  },
+  {
+    "task": 388,
+    "tier": null,
+    "solved": false,
+    "score": 19.0
+  },
+  {
+    "task": 389,
+    "tier": null,
+    "solved": false,
+    "score": 19.0
+  },
+  {
+    "task": 390,
+    "tier": null,
+    "solved": false,
+    "score": 19.0
+  },
+  {
+    "task": 391,
+    "tier": null,
+    "solved": false,
+    "score": 19.0
+  },
+  {
+    "task": 392,
+    "tier": null,
+    "solved": false,
+    "score": 19.0
+  },
+  {
+    "task": 393,
+    "tier": null,
+    "solved": false,
+    "score": 19.0
+  },
+  {
+    "task": 394,
+    "tier": null,
+    "solved": false,
+    "score": 19.0
+  },
+  {
+    "task": 395,
+    "tier": null,
+    "solved": false,
+    "score": 19.0
+  },
+  {
+    "task": 396,
+    "tier": null,
+    "solved": false,
+    "score": 19.0
+  },
+  {
+    "task": 397,
+    "tier": null,
+    "solved": false,
+    "score": 19.0
+  },
+  {
+    "task": 398,
+    "tier": null,
+    "solved": false,
+    "score": 19.0
+  },
+  {
+    "task": 399,
+    "tier": null,
+    "solved": false,
+    "score": 19.0
+  },
+  {
+    "task": 400,
+    "tier": null,
+    "solved": false,
+    "score": 19.0
+  }
+]
